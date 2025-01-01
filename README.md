@@ -3,6 +3,7 @@ Netinflix is a media streaming platform that allows users to browse, search, and
 <br>
 
 Content Browsing:
+<br>
                   . A clean and categorized content library.
                   <br>
                   
@@ -10,6 +11,8 @@ Content Browsing:
 <br>
 
 Search functionality: 
+<br>
+
                      . Enables users to search for title easily.
                      <br>
                      
@@ -17,13 +20,19 @@ Search functionality:
 <br>
 
 Intractive Experiences:
+<br>
+
                        . Supports unique interactive and VR content, enhancing user engagement.
 <br>
 
 Responsive Design:
+<br>
+
                   . Works seamlessly across devices like desctops, tablets, and smartphones.
 <br>
 
 User Personalization:
+<br>
+
                      . Offers tailoredd recommendation based on user preferences.
 

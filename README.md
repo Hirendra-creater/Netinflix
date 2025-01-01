@@ -5,7 +5,6 @@ Netinflix is a media streaming platform that allows users to browse, search, and
 Content Browsing:
 <br>
                   . A clean and categorized content library.
-                  <br>
                   
                   . Dynamic rows showcasing trending, popular, and recommended titles
 <br>
